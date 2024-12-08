@@ -2,8 +2,6 @@
 
 # Sistema de Riego Automatizado mediante Clasificación con Orientación Residencial
 
-![Sistema de Riego Automatizado](https://via.placeholder.com/800x400.png?text=Sistema+de+Riego+Automatizado) <!-- Reemplaza este enlace con una imagen relevante -->
-
 ### Proyecto de: Durigutti Vittorio
 
 ## Descripción
@@ -19,8 +17,13 @@ Este proyecto consiste en un **sistema de sensorización de humedad, pH y nutrie
   - Base de datos no relacional basada en documentos usando MongoDB.
 - **Interfaz interactiva**: Desarrollo de una plataforma web y móvil para la interacción usuario-sistema.
 
-## Stack Tecnológico
+---
 
+![Sistema de Riego Automatizado](/E%20Assets/EsquemaFuncionamiento.PNG)
+
+---
+
+## Stack Tecnológico
 ### IDE y Gestión
 - Visual Studio Code
 - IDE Espressif
@@ -73,7 +76,7 @@ La estructura del repositorio está organizada en carpetas y archivos específic
 
 ### E. Assets
 - `/Uso_General`: Recursos compartidos entre módulos.
-- `/Otros`: Archivos adicionales o accesorios.
+- `Otros`: Archivos adicionales o accesorios.
 
 ---
 
